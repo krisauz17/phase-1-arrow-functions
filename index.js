@@ -1,5 +1,5 @@
-// let a = 2000;
-// let b = 100;
+ let a = 2000;
+ let b = 100;
 
 const divide=(a,b)=>a/b;
 
